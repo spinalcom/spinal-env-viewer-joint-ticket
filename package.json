@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "spinal-env-viewer-plugin-apps": "https://github.com/spinalcom/spinal-env-viewer-plugin-ticket.git",
+    "spinal-env-viewer-plugin-ticket": "https://github.com/spinalcom/spinal-env-viewer-plugin-ticket.git",
     "spinal-models-ticket": "https://github.com/spinalcom/spinal-models-ticket"
   },
   "main": "index.js",
